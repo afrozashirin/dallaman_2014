@@ -1,0 +1,13 @@
+
+# Latex Files 
+*.aux
+*.log
+*.synctex.gz
+*.bbl
+
+# Object files and executables
+*.o
+*.exe
+
+# Matlab temporary files
+~*
